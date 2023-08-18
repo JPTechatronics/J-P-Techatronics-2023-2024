@@ -1,0 +1,9 @@
+# Wahlschalter 2 Stellungen 90 Grad
+# schwarz, rastend, mit kurzem Hebel
+# bestehend aus:
+# 1x Bedienelement PB1L-AAX/k
+# 1x Halter PB1-F-ZP
+# 1x Kontaktelement Schließer PB1-B-C10
+# Schutzkappe
+# Nr.:PB1-10X/k
+  Fa. Siemens Electrical Apparatus Ltd, Suzhou
